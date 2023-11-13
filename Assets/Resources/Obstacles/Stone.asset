@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1036ea8a0d7145a78f0ed4d1d9007a72, type: 3}
+  m_Name: Stone
+  m_EditorClassIdentifier: 
+  obstacleType: 1
+  obstacleSprites:
+  - {fileID: 21300000, guid: c1827c2c7adbd408e85d9d1302b80439, type: 3}
+  health: 1
+  acceptableDamageTypes: 01000000
+  particles:
+  - {fileID: 21300000, guid: 21797b36bd6aa4db8b4e8c85173b6384, type: 3}
+  - {fileID: 21300000, guid: 2e2516a3347d74042a096612dc310588, type: 3}
+  - {fileID: 21300000, guid: a4f909a16b60a49208c25c59249af373, type: 3}

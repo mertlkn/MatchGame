@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f86cc11b2ad464194da13344ef2cd8a, type: 3}
+  m_Name: Area
+  m_EditorClassIdentifier: 
+  areaID: 0
+  backgroundSprite: {fileID: 21300000, guid: 5d29b0baad2f04a9b8d4d1d6e9cc3a90, type: 3}
+  tasks:
+  - taskID: 0
+    unlockLevel: 1
+    taskSprite: {fileID: 776601646, guid: 38d3e00098c3f4fda9f7c3e06a64f661, type: 3}
+    taskPosition: {x: -310.25, y: 777}
+  - taskID: 1
+    unlockLevel: 2
+    taskSprite: {fileID: 106712089, guid: 38d3e00098c3f4fda9f7c3e06a64f661, type: 3}
+    taskPosition: {x: 286.25, y: 777}
+  - taskID: 2
+    unlockLevel: 3
+    taskSprite: {fileID: 380708943, guid: 38d3e00098c3f4fda9f7c3e06a64f661, type: 3}
+    taskPosition: {x: -192, y: -143}
+  - taskID: 3
+    unlockLevel: 4
+    taskSprite: {fileID: -760981898, guid: 38d3e00098c3f4fda9f7c3e06a64f661, type: 3}
+    taskPosition: {x: 144, y: -145}
+  - taskID: 4
+    unlockLevel: 5
+    taskSprite: {fileID: -713708852, guid: 38d3e00098c3f4fda9f7c3e06a64f661, type: 3}
+    taskPosition: {x: -312, y: 432.57}
+  - taskID: 5
+    unlockLevel: 6
+    taskSprite: {fileID: 1231217416, guid: 38d3e00098c3f4fda9f7c3e06a64f661, type: 3}
+    taskPosition: {x: 284.5, y: 434.14014}
+  - taskID: 6
+    unlockLevel: 7
+    taskSprite: {fileID: -480216352, guid: 38d3e00098c3f4fda9f7c3e06a64f661, type: 3}
+    taskPosition: {x: -36, y: 216}
+  - taskID: 7
+    unlockLevel: 8
+    taskSprite: {fileID: -8794796, guid: 38d3e00098c3f4fda9f7c3e06a64f661, type: 3}
+    taskPosition: {x: -348, y: 168}
+  - taskID: 8
+    unlockLevel: 9
+    taskSprite: {fileID: 1472520779, guid: 38d3e00098c3f4fda9f7c3e06a64f661, type: 3}
+    taskPosition: {x: 312, y: 168}
+  - taskID: 9
+    unlockLevel: 9
+    taskSprite: {fileID: -1889438071, guid: 38d3e00098c3f4fda9f7c3e06a64f661, type: 3}
+    taskPosition: {x: -27, y: -894}
